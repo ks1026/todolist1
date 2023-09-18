@@ -1,6 +1,6 @@
 # ✔️ My Todo List만들기
 
-![]([https://velog.velcdn.com/images/jhhyung/post/feb5c66d-6152-4bb2-a841-0e553b9ea18a/image.png](https://1a2a3a4a5a6a7a.tistory.com/24))
+![]([(https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbthJUo%2FbtsuCIPRAdW%2FReWjK1MWUjKU0rW6Aj8KbK%2Fimg.jpg)])
 Kosta 265기 2달차 [React 입문주차] 개인과제로 처음 React를 사용하여 프로젝트를 만들었습니다!😆
 
 ---
