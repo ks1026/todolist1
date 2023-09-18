@@ -1,6 +1,8 @@
 # ✔️ My Todo List만들기
 
-![]([https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbthJUo%2FbtsuCIPRAdW%2FReWjK1MWUjKU0rW6Aj8KbK%2Fimg.jpg])
+
+![리액트 파일](https://github.com/ks1026/todolist1/assets/109998789/f828a171-7a16-4490-84fc-eb3d64ab6501)
+
 Kosta 265기 2달차 [React 입문주차] 개인과제로 처음 React를 사용하여 프로젝트를 만들었습니다!😆
 
 ---
