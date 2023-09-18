@@ -1,7 +1,8 @@
 # ✔️ My Todo List만들기
 
 
-![리액트 파일](https://github.com/ks1026/todolist1/assets/109998789/f828a171-7a16-4490-84fc-eb3d64ab6501)
+![리액트 파일](https://github.com/ks1026/todolist1/assets/109998789/7ae1a3fb-6c3d-4ddc-974e-c6e61d6e05bc)
+
 
 Kosta 265기 2달차 [React 입문주차] 개인과제로 처음 React를 사용하여 프로젝트를 만들었습니다!😆
 
